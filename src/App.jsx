@@ -3,8 +3,10 @@ import Game from "./Game";
 
 function App() {
   return (
-    
-    <div><Game/></div>
+
+    <div>
+      <h1>GAME TIC TAC</h1>
+      <Game /> </div>
   )
 }
 
